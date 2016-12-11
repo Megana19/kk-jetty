@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>orlHello Sages Bootcamp</h2>
+<h2>Hello Sages Bootcamp</h2>
 </body>
 </html>
